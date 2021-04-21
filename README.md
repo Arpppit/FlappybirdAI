@@ -1,6 +1,6 @@
 # FlappybirdAI
 Using pygame to make simple flappy bird game and configuring genetic algorithms NEAT to automate the game
 
-#Modules Used
-pygame
-neat
+#Modules Used :-
+pygame, 
+ neat
